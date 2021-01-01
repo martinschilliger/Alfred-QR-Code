@@ -13,4 +13,4 @@ brew install qrencode
 ```
 
 [alfred]: http://www.alfredapp.com/
-[demo]: https://raw.github.com/deanishe/alfred-convert/master/demo.gif
+[demo]: https://raw.github.com/martinschilliger/Alfred-QR-Code/main/demo.gif
